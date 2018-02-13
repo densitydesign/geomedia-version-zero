@@ -1,0 +1,9 @@
+{
+  "name": "sigma",
+  "version": "0.0.0",
+  "commit": "28e210b4965428a15e4b2fd5b17b7042520c7351",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jacomyal/sigma.js.git"
+  }
+}
